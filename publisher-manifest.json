@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "821eb521bdd5fa20815b3410",
+  "owner": "yrpbpx",
+  "repo": "page-47651b1a2acdc271060629f1",
+  "title": "自由壁虎(FreeGecko)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "47651b1a2acdc271060629f1",
+      "a": "自由壁虎(FreeGecko)",
+      "b": "",
+      "entity": "自由壁虎(FreeGecko)",
+      "brand": "自由壁虎(FreeGecko)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "bbc30c0e21ea0cbe270c6f394abda4dbfee635d90b8e5f9d62b2f04019d1a034",
+      "content": {
+        "keyword1": "自由壁虎(FreeGecko)",
+        "keyword2": "",
+        "primary_entity": "自由壁虎(FreeGecko)",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "自由壁虎(FreeGecko)官方网站提供机场订阅、VPN加速器与多平台客户端下载，覆盖办公、流媒体与游戏加速场景，支持一键导入配置与稳定专线节点。",
+          "AI_DESCRIPTION": "自由壁虎(FreeGecko)官方网站提供机场订阅、VPN加速器与多平台客户端下载，覆盖办公、流媒体与游戏加速场景，支持一键导入配置与稳定专线节点。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box}html,body{margin:0;padding:0;background:#071422;color:#e7f3fb;font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;font-size:16px;line-height:1.65;overflow-x:hidden}a{color:#5eead4;text-decoration:none}a:hover{text-decoration:underline}header{background:#0b1e33;border-bottom:2px solid #1ac8c4}header .bar,main,footer .foot{max-width:960px;margin:0 auto;padding:14px 16px}nav{display:flex;flex-wrap:wrap;gap:10px 14px}nav a{color:#9af0ec;font-size:14px}h1{margin:12px 0 10px;font-size:1.7rem;line-height:1.3;color:#fff}h2{margin:28px 0 12px;font-size:1.28rem;color:#2ee6dc;border-left:4px solid #2ee6dc;padding-left:10px}h3{margin:16px 0 8px;font-size:1.05rem;color:#b7fff8}p{margin:0 0 12px}ul{margin:0 0 12px;padding-left:1.2em}.lead{color:#cfeaf3}.cards{display:flex;flex-wrap:wrap;gap:12px}.card{flex:1 1 250px;background:#0e2744;border:1px solid #1a4a6e;border-radius:8px;padding:14px}.card.featured{border-color:#2ee6dc}.name{font-weight:700;color:#fff}.price{font-size:1.35rem;color:#2ee6dc;margin:6px 0}.annual{font-size:13px;color:#9ec4d4}.steps{display:flex;flex-wrap:wrap;gap:10px}.step{flex:1 1 200px;background:#0e2744;border-radius:8px;padding:12px;border:1px solid #16395a}.num{display:inline-block;background:#125e5c;color:#d7fffc;border-radius:4px;padding:0 8px;margin-right:6px;font-size:13px}details{background:#0e2744;border:1px solid #16395a;border-radius:6px;padding:8px 12px;margin:0 0 8px}summary{font-weight:600;color:#d7fbff}details p{margin:8px 0 4px;color:#d5eaf3}.note{background:#102c4a;border-radius:8px;padding:12px;border:1px solid #1a4a6e}footer{background:#061018;color:#9ec4d4;font-size:14px;margin-top:28px}.cols{display:flex;flex-wrap:wrap;gap:16px}.cols>div{flex:1 1 200px}.ad{border:1px dashed #2a6a68;padding:10px;border-radius:6px;color:#b7e4df}</style><header><div class=\"bar\"><nav><a href=\"#intro\">品牌简介</a><a href=\"#plans\">订阅套餐</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">配置流程</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a><a href=\"#about\">官方说明</a><a href=\"#sitemap\">网站地图</a></nav></div></header><main><section id=\"intro\"><h1>自由壁虎(FreeGecko) 官方机场与加速器</h1><p class=\"lead\">自由壁虎(FreeGecko)是面向个人与团队的网络加速服务，以机场订阅为核心，把稳定节点、流媒体解锁和客户端一键导入放在同一条路径上。本页是官网介绍与官方下载入口，帮助你完成从选套餐到成功连上的全过程。</p><p>服务定位很直接：用清晰的订阅链接对接主流客户端，减少反复改配置。节点池覆盖常用地区，基础线路适合浏览与协作，旗舰与团队档位补充 IPLC 专线与更高并发。无论你是第一次使用梯子，还是要从旧机场迁移，都可以按下方流程在几分钟内完成接入。</p><p>自由壁虎(FreeGecko)强调可预期的用量与设备数，而不是含糊的“不限速口号”。每月流量、同时在线设备、流媒体策略和工单优先级都写在套餐里，便于对照自己的办公、学习和娱乐需求。官网仅通过本站发布订阅说明与客户端指引，避免来路不明的安装包。</p></section><section id=\"plans\"><h2>机场订阅套餐</h2><p>三档套餐均提供订阅链接，可在 Clash、sing-box、Shadowrocket 等客户端中更新节点。按月可随时调整，按年可降低平均成本。旗舰版适合把流媒体和游戏加速放在同一套配置里的用户。</p><div class=\"cards\"><article class=\"card\"><div class=\"name\">基础版</div><div class=\"price\">¥15/月</div><div class=\"annual\">按年付仅需 ¥150/年</div><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul><p><a href=\"#guide\">查看配置步骤</a></p></article><article class=\"card featured\"><div class=\"name\">旗舰版（推荐）</div><div class=\"price\">¥35/月</div><div class=\"annual\">按年付仅需 ¥350/年</div><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul><p><a href=\"#download\">前往客户端下载</a></p></article><article class=\"card\"><div class=\"name\">团队版</div><div class=\"price\">¥85/月</div><div class=\"annual\">按年付仅需 ¥850/年</div><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul><p><a href=\"#about\">了解官方服务</a></p></article></div></section><section id=\"scenes\"><h2>使用场景</h2><h3>跨境协作与资料访问</h3><p>远程会议、代码仓库、云文档和学术数据库对延迟与稳定性更敏感。把系统代理或规则分流指向香港、新加坡或日本节点，可减少握手失败。基础版即可覆盖日常办公；多人共用请选择团队版，以免挤占设备名额。</p><h3>流媒体与内容创作</h3><p>旗舰版标注全节点原生流媒体解锁，适合需要切换地区片库的观看与素材收集。建议在客户端里为视频域名单独走对应区域节点，避免全局模式占用过多流量。遇到版权库校验失败时，先更新订阅再更换同区域备用节点。</p><h3>游戏与实时语音</h3><p>IPLC 专线主要用于对抖动敏感的对战与开黑。选择离游戏服更近的专线，关闭多余的 UDP 转发实验项，通常比盲目选“最快延迟”更稳。语音软件可与游戏走同一出口，减少防火墙误判。</p><h3>出行与多设备同步</h3><p>手机、电脑、平板同时在线时，请确认套餐设备上限。订阅同一链接即可，不必为每台机器单独购买。公共 Wi-Fi 环境下先连上加速器再登录邮箱与网银相关页面。</p></section><section id=\"guide\"><h2>配置流程</h2><p>自由壁虎(FreeGecko)把接入拆成可核对的六步。按顺序做完，客户端里应能看到节点列表并成功连通。若某一步失败，停在该步对照 FAQ，不要同时更换客户端、订阅和系统代理，以免无法判断原因。</p><div class=\"steps\"><div class=\"step\"><h3><span class=\"num\">1</span>确认需求与套餐</h3><p>估算每月流量、同时在线设备和是否需要 IPLC。轻度浏览选基础版；流媒体加游戏选旗舰版；工作室或多成员选团队版。</p></div><div class=\"step\"><h3><span class=\"num\">2</span>完成订阅获取链接</h3><p>在官网订单完成后，用户中心会给出通用订阅地址。复制完整链接，不要在聊天软件里折行。该链接用于导入，不是浏览器直接打开的网页。</p></div><div class=\"step\"><h3><span class=\"num\">3</span>安装对应客户端</h3><p>Windows 可用 Clash 系或 v2rayN，macOS 可用 Clash Verge 或 Surge，Android 可用 Clash Meta，iOS 常用 Shadowrocket 或 Quantumult X。只从本页客户端下载区进入官方安装说明。</p></div><div class=\"step\"><h3><span class=\"num\">4</span>导入订阅并更新</h3><p>选择“从 URL 导入/添加订阅”，粘贴链接后手动更新一次。看到港日美新等分组即表示导入成功。若列表为空，检查是否漏掉 https 前缀或混入空格。</p></div><div class=\"step\"><h3><span class=\"num\">5</span>选择节点并测试</h3><p>先测延迟再看实际打开网页的速度。游戏走 IPLC 分组，视频走解锁分组，普通网页可用负载均衡或自动选择。连通后打开 IP 检测页确认出口地区。</p></div><div class=\"step\"><h3><span class=\"num\">6</span>按场景设置分流</h3><p>推荐规则模式：国内直连、国外代理。需要应用级代理时，把终端或设计软件加入绕过列表。团队版可提交定制路由，把指定网段固定到 VIP 节点。</p></div></div><div class=\"note\"><p>配置提示：系统时间必须准确，证书校验失败多半是时间偏差。公司电脑若无法设置 TUN，可改用系统代理端口。更新订阅频率建议每天一次，节点变更后无需重装客户端。</p></div></section><section id=\"download\"><h2>客户端下载与导入说明</h2><p>自由壁虎(FreeGecko)不捆绑第三方安装器。请先安装下方对应平台的客户端，再导入官网给出的机场订阅。下载链接指向本页说明锚点，便于在移动设备上对照操作。</p><h3>桌面端</h3><ul><li><a href=\"#guide\">Windows：Clash 内核客户端 / v2rayN</a> — 适合规则分流与系统代理。</li><li><a href=\"#guide\">macOS：Clash Verge 或 Surge</a> — 菜单栏一键切换节点。</li><li><a href=\"#guide\">Linux：Clash Meta / sing-box</a> — 用订阅 URL 生成配置后开机自启。</li></ul><h3>移动端</h3><ul><li><a href=\"#guide\">Android：Clash Meta 系列</a> — 支持分应用代理，节省流量。</li><li><a href=\"#guide\">iOS：Shadowrocket / Quantumult X</a> — 粘贴订阅后开启模块与规则。</li></ul><p>导入后请开启“自动更新订阅”，避免节点调整后仍使用旧地址。如需卸载，先在客户端断开连接，再移除配置文件，防止残留系统代理导致无法上网。</p></section><section id=\"nodes\"><h2>节点与线路说明</h2><p>普通线路节点池覆盖香港、日本、新加坡、美西、台湾与欧洲入口，适合网页、邮件和中轻度视频。旗舰版在此基础上提供 IPLC 游戏优化分组，减少高峰抖动。团队版另有 VIP 高带宽出口，适合大文件与多人并发。</p><p>流媒体策略因套餐而异：基础版解锁常见内容库的基础线路；旗舰与团队强调原生解锁，降低跳转中转带来的地区识别错误。任何线路都不承诺突破特定网站的额外风控，合理切换备用节点即可。</p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>如何在自由壁虎(FreeGecko)获取可用的机场订阅链接？</summary><p>下单成功后进入用户中心复制订阅 URL。该链接用于客户端导入，不要反复在浏览器中打开。若重置链接，旧地址会失效，需要在所有设备上重新导入一次。</p></details><details><summary>官方支持哪些加速器客户端？</summary><p>桌面端常用 Clash 内核、v2rayN 与 sing-box；移动端常用 Clash Meta、Shadowrocket 与 Quantumult X。只要客户端能识别通用订阅，即可对接。本站提供官网下载指引，不推荐来路不明的修改版。</p></details><details><summary>流量用完或设备超限会怎样？</summary><p>当月流量用尽后新连接会失败，次月按套餐额度重置，也可临时升级档位。超过同时在线设备数时，新设备无法握手，踢出闲置会话即可。团队版适合共享办公，不必把个人套餐借给过多终端。</p></details><details><summary>怎样确认流媒体已经解锁？</summary><p>更新订阅后选择对应地区的解锁节点，清空应用缓存再打开。旗舰版与团队版覆盖更完整。若仅个别剧集失败，多半是内容方风控，换同区域节点或等待片刻再试。</p></details><details><summary>游戏加速是否必须使用 IPLC？</summary><p>对延迟和丢包敏感的对战建议走旗舰版 IPLC 分组；休闲游戏用普通低延迟节点即可。语音与游戏尽量同一出口。团队赛事前先做十分钟在线测试，不要开赛才更换核心。</p></details><details><summary>连不上时按什么顺序排查？</summary><p>核对系统时间、订阅是否更新、模式是否为规则或全局、本地防火墙是否拦截核心进程。仍失败时换一个地区节点，或临时关闭 TUN 改用系统代理。把客户端日志中的报错原文留给工单，旗舰与团队用户可走优先支持。</p></details></section><section id=\"about\"><h2>官方身份与服务说明</h2><p>本站为自由壁虎(FreeGecko)官方网站，发布机场订阅说明、VPN 加速器使用方法和客户端下载指引。套餐价格与权益以本页公示为准。工单用于处理连通性、订阅失效和团队路由定制，不通过来路不明的第三方代充。</p><p>网络加速受当地接入质量影响，延迟会随时段变化。我们持续调整入口与带宽配比，但请以实际测速为准。不要将账号借给未知来源，以免订阅被重置。需要发票或企业路由的用户直接选择团队版并说明网段需求。</p></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"foot\"><div class=\"cols\"><div id=\"sitemap\"><h2>网站地图</h2><p><a href=\"#intro\">品牌简介</a> · <a href=\"#plans\">订阅套餐</a> · <a href=\"#scenes\">使用场景</a> · <a href=\"#guide\">配置流程</a> · <a href=\"#download\">客户端下载</a> · <a href=\"#nodes\">节点说明</a> · <a href=\"#faq\">常见问题</a> · <a href=\"#about\">官方说明</a></p></div><div><h2>友情链接</h2><p><a href=\"#download\">Clash 配置入门</a> · <a href=\"#guide\">订阅导入示例</a> · <a href=\"#nodes\">线路选择建议</a> · <a href=\"#faq\">加速器排错</a></p></div><div><h2>合作与广告</h2><p class=\"ad\">企业专线与团队路由咨询位：面向工作室的高带宽出口与定制分流，详情见团队版说明。</p><p class=\"ad\">客户端教学合作位：仅展示与官方导入流程相关的图文教程入口。</p></div></div><p>自由壁虎(FreeGecko)官网 · 机场订阅与客户端下载 · 版权所有</p></div></footer>",
+          "hash": "2c89d6ceaae22fe67e4047e9087c6312fe995f3eb77a172bddbb1c9d4c6abf74",
+          "seo": {
+            "title": "自由壁虎(FreeGecko)官网下载 | VPN梯子网络加速与机场订阅客户端",
+            "keywords": "自由壁虎,FreeGecko,自由壁虎机场,自由壁虎VPN,梯子,网络加速,加速器,客户端下载,官网下载,机场订阅,IPLC,Clash,Shadowrocket",
+            "description": "自由壁虎(FreeGecko)官方网站提供机场订阅、VPN加速器与多平台客户端下载，覆盖办公、流媒体与游戏加速场景，支持一键导入配置与稳定专线节点。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "huaym4.cn",
+    "host": "p-75b61ed497.huaym4.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "aaema.cn",
+      "url": "https://aaema.cn/",
+      "label": "自由壁虎(FreeGecko)",
+      "apex": "aaema.cn",
+      "kind": null,
+      "identity": "wangbadan9/page-29f815ddf006e08f36702073"
+    },
+    {
+      "host": "aesak.cn",
+      "url": "https://aesak.cn/",
+      "label": "自由壁虎(FreeGecko)",
+      "apex": "aesak.cn",
+      "kind": null,
+      "identity": "jichangl1/page-9f103f4a896b2a74ab3ac0e7"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "4fa3a71d3d318d30f097643660165e1598324deed5a904de47ce3983ddb1d895",
+    "sitemap.xml": "6acfb24ef2e7d9e56b5a286ade20b882dc018fd027f221a08deb2277413e4d6a",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "d81715be82f558319c39129d76f8ce86501dbca098aae787967463ce89e4bc73",
+    "robots.txt": "05dbba3b69210e2be3f1a90c3921b9f49c59e34b944fc884f31d6e022fb53a7a",
+    "d208fba91876f5af0c5dc0dc5d0fcdb0.txt": "c8239d2569ebf39dcf3ab3e35797bbf05c7da85b1e78772d7d8c15bac7f59d9a"
+  },
+  "revision": "71c01ee103ed5d88dca513c362f67755017cbcd2bf20f6b02b4b4c4b6cf1b6f2"
+}
